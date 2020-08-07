@@ -2,6 +2,11 @@
   "expo": {
     "name": "RentCarte",
     "slug": "RentCarte",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/rent-logo.png",
